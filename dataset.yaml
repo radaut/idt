@@ -1,0 +1,9 @@
+API_KEY: NONE
+CLASSES:
+- CLASS_NAME: planets
+  SEARCH_KEYWORDS: planet,stars,solar
+DATASET_NAME: pics
+ENGINE: bing
+IMAGE_SIZE: 0
+RESIZE_METHOD: smartcrop
+SAMPLES_PER_SEARCH: 5

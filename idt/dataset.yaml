@@ -1,0 +1,11 @@
+API_KEY: NONE
+CLASSES:
+- CLASS_NAME: trees
+  SEARCH_KEYWORDS: trees,evergreen,leaves
+- CLASS_NAME: planets
+  SEARCH_KEYWORDS: planets,solar,sun
+DATASET_NAME: trees
+ENGINE: duckgo
+IMAGE_SIZE: 0
+RESIZE_METHOD: smartcrop
+SAMPLES_PER_SEARCH: 5
